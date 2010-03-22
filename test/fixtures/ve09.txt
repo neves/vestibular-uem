@@ -1,0 +1,28 @@
+UNIVERSIDADE ESTADUAL DE MARINGÁ                         LEGENDA: AP =Aprovado              LE=Lista de espera  RP=Reprovado                     VESTIBULAR VE09
+COMISSÃO CENTRAL DO VESTIBULAR UNIFICADO                          AUS=Ausente               NA=Não avaliada                                        DATA 13/01/10
+RESULTADO DO VESTIBULAR - LISTÃO GERAL                            ENC=Enem não considerado  NR=Não realização                                        PÁGINA    1
+================================================================================================================================================================
+CURSO: 021 - Administração (Matutino-Maringá)                                                                                                 VAGAS:  40        
+================================================================================================================================================================
+                                                  ----Enem----  -------------PROVA 1-------------  -------PROVA 2------  -----PROVA 3-----                      
+ INS-                                      OPÇÃO  OPÇÃO PONTOS    OBJ ---Pontos com Enem--- TOTAL       OBJ  OBJ  TOTAL    OBJ   OBJ TOTAL  ESCORE              
+CRIÇÃO   NOME DO CANDIDATO                 COTAS  Enem   Enem     UEM   Obj+Enem=Total Usou   P1   RED PORT   LE    P2     HIS   MAT   P3    FINAL CLAS SITUAÇÃO
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+44053-7  ADRIANE OLIVEIRA COSTA             NÃO    SIM    ENC   131,5   --   --    --   --  131,5   78 41,5 12,0I 131,5   80,0  54,5 134,5   397,5    1 AP      
+55789-6  ADRIANO RODRIGO ALMEIDA            NÃO    NÃO     --     AUS   --   --    --   --    AUS  AUS  AUS  AUS    AUS    AUS   AUS   AUS     --    -- RP      
+63004-5  ADRIELE APARECIDA JANEIRO ALVES    NÃO    SIM    ENC    70,5   --   --    --   --   70,5   68 34,0  7,0E 109,0   14,6  18,0  32,6   212,1  185 LE      
+47683-2  EDILAINA DOS ANJOS XAVIER          SIM    SIM    ENC    73,5   --   --    --   --   73,5   54 48,0 15,0E 117,0   38,7  29,5  68,2   258,7   99 AP-COTAS
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+UNIVERSIDADE ESTADUAL DE MARINGÁ                         LEGENDA: AP =Aprovado              LE=Lista de espera  RP=Reprovado                     VESTIBULAR VE09
+COMISSÃO CENTRAL DO VESTIBULAR UNIFICADO                          AUS=Ausente               NA=Não avaliada                                        DATA 13/01/10
+RESULTADO DO VESTIBULAR - LISTÃO GERAL                            ENC=Enem não considerado  NR=Não realização                                        PÁGINA    8
+================================================================================================================================================================
+CURSO: 022 - Administração (Noturno-Maringá)                                                                                                  VAGAS:  40        
+================================================================================================================================================================
+                                                  ----Enem----  -------------PROVA 1-------------  -------PROVA 2------  -----PROVA 3-----                      
+ INS-                                      OPÇÃO  OPÇÃO PONTOS    OBJ ---Pontos com Enem--- TOTAL       OBJ  OBJ  TOTAL    OBJ   OBJ TOTAL  ESCORE              
+CRIÇÃO   NOME DO CANDIDATO                 COTAS  Enem   Enem     UEM   Obj+Enem=Total Usou   P1   RED PORT   LE    P2     HIS   MAT   P3    FINAL CLAS SITUAÇÃO
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+54990-3  ABDUL KARIM HUSSEIN SALEM NETO     NÃO    SIM    ENC    38,0   --   --    --   --   38,0   60 38,5 10,0I 108,5   25,4  32,0  57,4   203,9  296 LE      
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
