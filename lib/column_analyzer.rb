@@ -1,17 +1,4 @@
 class ColumnAnalyzer
-  # retorna todos os indices dos espacos na linha
-	def self.accept
-		/ |\t/
-	end
-
-  def self.spaces(line)
-    line.chars.each_with_index.select {|char, i| char =~ self.accept}.map{|char_index| char_index.last}
-  end
-
-  def self.not_spaces(line)
-    line.chars.each_with_index.select {|char, i| ! (char =~ self.accept)}.map{|char_index| char_index.last}
-  end
-
   def self.analyze_lines(lines)
     first = true
     indexes = []
@@ -31,6 +18,22 @@ class ColumnAnalyzer
     a = char * length
     spaces.each {|i| a[i] = " "}
     a
+  end
+
+  private
+  # retorna todos os indices dos espacos na linha
+	def self.accept
+		/ |\t/
+	end
+
+  def self.spaces(line)
+    line.chars.each_with_index.select{|char, i| char =~ self.accept}.
+                               map{|char_index| char_index.last}
+  end
+
+  def self.not_spaces(line)
+    line.chars.each_with_index.select{|char, i| ! (char =~ self.accept)}.
+                               map{|char_index| char_index.last}
   end
 end
 =begin

@@ -1,3 +1,4 @@
+# replace this class with 1.9 http://www.michaelharrison.ws/weblog/?p=163
 class EnumeratorFilter
   def initialize(it, &block)
     @it = it
