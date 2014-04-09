@@ -1,0 +1,390 @@
+CURSO: 011 - Ciências Econômicas (Integral-Maringá)                             
+CURSO: 011 - Ciências Econômicas (Matutino-Maringá)                             
+CURSO: 011 - Ciências Econômicas-M-Maringá                                      
+CURSO: 012 - Ciências Econômicas (Noturno-Maringá)                              
+CURSO: 012 - Ciências Econômicas-N-Maringá                                      
+CURSO: 013 - Ciências Econômicas (Integral-Maringá)                             
+CURSO: 021 - Administração (Matutino-Maringá)                                   
+CURSO: 021 - Administração-M-Maringá                                            
+CURSO: 022 - Administração (Noturno-Maringá)                                    
+CURSO: 022 - Administração-N-Maringá                                            
+CURSO: 031 - Ciências Contábeis (Matutino-Maringá)                              
+CURSO: 031 - Ciências Contábeis-M-Maringá                                       
+CURSO: 032 - Ciências Contábeis (Noturno-Maringá)                               
+CURSO: 032 - Ciências Contábeis-N-Maringá                                       
+CURSO: 041 - Letras - Inglês - Lic ou Lic/Bach em Tradução-M-Maringá            
+CURSO: 041 - Letras-Inglês-Lic ou Lic/Bach em Tradução (Matutino-Maringá)       
+CURSO: 041 - Letras-Português (Matutino-Maringá)                                
+CURSO: 041 - Letras-Português-Licenciatura (Matutino-Maringá)                   
+CURSO: 042 - Letras - Português-N-Maringá                                       
+CURSO: 051 - Letras - Português/Inglês-M-Maringá                                
+CURSO: 052 - Letras - Português/Inglês-N-Maringá                                
+CURSO: 052 - Letras-Português/Inglês (Noturno-Maringá)                          
+CURSO: 052 - Letras-Português/Inglês-Licenciatura (Noturno-Maringá)             
+CURSO: 062 - Letras - Português/Francês-N-Maringá                               
+CURSO: 062 - Letras-Português/Francês (Noturno-Maringá)                         
+CURSO: 062 - Letras-Português/Francês-Licenciatura (Noturno-Maringá)            
+CURSO: 065 - Letras-Inglês-Bacharelado ou Licenciatura (Matutino-Maringá)       
+CURSO: 065 - Letras-Inglês-Licenciatura/Bacharelado (Matutino-Maringá)          
+CURSO: 070 - Comunicação e Multimeios (Vespertino-Maringá)                      
+CURSO: 071 - Direito (Matutino-Maringá)                                         
+CURSO: 071 - Direito-M-Maringá                                                  
+CURSO: 072 - Direito (Noturno-Maringá)                                          
+CURSO: 072 - Direito-N-Maringá                                                  
+CURSO: 081 - Pedagogia (Matutino-Maringá)                                       
+CURSO: 081 - Pedagogia-M-Maringá                                                
+CURSO: 082 - Pedagogia (Noturno-Maringá)                                        
+CURSO: 082 - Pedagogia-N-Maringá                                                
+CURSO: 091 - Geografia (Matutino-Maringá)                                       
+CURSO: 091 - Geografia-M-Maringá                                                
+CURSO: 092 - Geografia (Noturno-Maringá)                                        
+CURSO: 092 - Geografia-N-Maringá                                                
+CURSO: 101 - História (Matutino-Maringá)                                        
+CURSO: 101 - História-M-Maringá                                                 
+CURSO: 102 - História (Noturno-Maringá)                                         
+CURSO: 102 - História-N-Maringá                                                 
+CURSO: 103 - História (Noturno-Ivaiporã)                                        
+CURSO: 111 - Psicologia (Integral-Maringá)                                      
+CURSO: 111 - Psicologia-I-Maringá                                               
+CURSO: 121 - Filosofia (Vespertino-Maringá)                                     
+CURSO: 121 - Filosofia-V-Maringá                                                
+CURSO: 132 - Ciências Sociais (Noturno-Maringá)                                 
+CURSO: 132 - Ciências Sociais-N-Maringá                                         
+CURSO: 133 - Serviço Social (Noturno-Ivaiporã)                                  
+CURSO: 141 - Secretariado Executivo Trilíngue (Noturno-Maringá)                 
+CURSO: 141 - Secretariado Executivo Trilíngüe (Noturno-Maringá)                 
+CURSO: 141 - Secretariado Executivo Trilíngüe-N-Maringá                         
+CURSO: 201 - Arquitetura e Urbanismo (Integral-Maringá)                         
+CURSO: 201 - Arquitetura e Urbanismo-I-Maringá                                  
+CURSO: 211 - Engenharia Civil (Integral-Maringá)                                
+CURSO: 211 - Engenharia Civil-I-Maringá                                         
+CURSO: 212 - Engenharia Civil (Integral-Umuarama)                               
+CURSO: 221 - Engenharia Química (Integral-Maringá)                              
+CURSO: 221 - Engenharia Química-I-Maringá                                       
+CURSO: 232 - Física (Noturno-Maringá)                                           
+CURSO: 232 - Física-N-Maringá                                                   
+CURSO: 233 - Física (Noturno-Goioerê)                                           
+CURSO: 241 - Química - Bacharelado-I-Maringá                                    
+CURSO: 241 - Química-Bacharelado (Integral-Maringá)                             
+CURSO: 242 - Química - Licenciatura-N-Maringá                                   
+CURSO: 242 - Química-Licenciatura (Noturno-Maringá)                             
+CURSO: 251 - Matemática (Integral-Maringá)                                      
+CURSO: 251 - Matemática-Bacharelado ou Licenciatura (Integral-Maringá)          
+CURSO: 252 - Matemática (Noturno-Maringá)                                       
+CURSO: 252 - Matemática-Licenciatura (Noturno-Maringá)                          
+CURSO: 252 - Matemática-N-Maringá                                               
+CURSO: 261 - Estatística (Noturno-Maringá)                                      
+CURSO: 261 - Estatística (Vespertino e Noturno-Maringá)                         
+CURSO: 261 - Estatística (Vespertino-Maringá)                                   
+CURSO: 261 - Estatística* (Vespertino-Maringá)                                  
+CURSO: 261 - Estatística-N-Maringá                                              
+CURSO: 282 - Informática (Noturno-Maringá)                                      
+CURSO: 282 - Informática-N-Maringá                                              
+CURSO: 291 - Ciência da Computação (Integral-Maringá)                           
+CURSO: 291 - Ciência da Computação-I-Maringá                                    
+CURSO: 311 - Ciências Biológicas - Bacharelado/Licenciatura-I-Maringá           
+CURSO: 311 - Ciências Biológicas-Bacharelado ou Licenciatura (Integral-Maringá) 
+CURSO: 311 - Ciências Biológicas-Bacharelado/Licenciatura (Integral-Maringá)    
+CURSO: 312 - Ciências Biológicas - Licenciatura-N-Maringá                       
+CURSO: 312 - Ciências Biológicas-Licenciatura (Noturno-Maringá)                 
+CURSO: 315 - Tecnologia em Biotecnologia (Noturno-Maringá)                      
+CURSO: 331 - Educação Física (Integral-Maringá)                                 
+CURSO: 331 - Educação Física-Bacharelado (Integral-Maringá)                     
+CURSO: 331 - Educação Física-Bacharelado ou Licenciatura (Integral-Maringá)     
+CURSO: 331 - Educação Física-I-Maringá                                          
+CURSO: 332 - Educação Física (Noturno-Maringá)                                  
+CURSO: 332 - Educação Física-Licenciatura (Noturno-Maringá)                     
+CURSO: 332 - Educação Física-N-Maringá                                          
+CURSO: 333 - Educação Física (Integral-Ivaiporã)                                
+CURSO: 333 - Educação Física-Licenciatura (Integral-Ivaiporã)                   
+CURSO: 334 - Educação Física-Licenciatura (Integral-Maringá)                    
+CURSO: 341 - Farmácia (Integral-Maringá)                                        
+CURSO: 341 - Farmácia-I-Maringá                                                 
+CURSO: 342 - Biomedicina (Integral-Maringá)                                     
+CURSO: 343 - Bioquímica (Integral-Maringá)                                      
+CURSO: 351 - Zootecnia (Integral-Maringá)                                       
+CURSO: 351 - Zootecnia-I-Maringá                                                
+CURSO: 361 - Agronomia (Integral-Maringá)                                       
+CURSO: 361 - Agronomia-I-Maringá                                                
+CURSO: 371 - Enfermagem (Integral-Maringá)                                      
+CURSO: 371 - Enfermagem-I-Maringá                                               
+CURSO: 381 - Medicina (Integral-Maringá)                                        
+CURSO: 381 - Medicina-I-Maringá                                                 
+CURSO: 391 - Odontologia (Integral-Maringá)                                     
+CURSO: 391 - Odontologia-I-Maringá                                              
+CURSO: 401 - Engenharia Mecânica (Integral-Maringá)                             
+CURSO: 401 - Engenharia Mecânica-I-Maringá                                      
+CURSO: 401 - Engenharia Mecânica-V-Maringá                                      
+CURSO: 402 - Engenharia Elétrica (Integral-Maringá)                             
+CURSO: 411 - Engenharia de Alimentos (Integral-Maringá)                         
+CURSO: 411 - Engenharia de Alimentos-I-Maringá                                  
+CURSO: 412 - Engenharia de Alimentos (Integral-Umuarama)                        
+CURSO: 421 - Engenharia de Produção - Agroindústria-N-Maringá                   
+CURSO: 421 - Engenharia de Produção-Agroindústria (Noturno-Maringá)             
+CURSO: 431 - Engenharia de Produção - Confecção Industrial-N-Maringá            
+CURSO: 431 - Engenharia de Produção-Confecção Industrial (Noturno-Maringá)      
+CURSO: 441 - Engenharia de Produção - Construção Civil-N-Maringá                
+CURSO: 441 - Engenharia de Produção-Construção Civil (Noturno-Maringá)          
+CURSO: 451 - Engenharia de Produção - Software-N-Maringá                        
+CURSO: 451 - Engenharia de Produção-Software (Noturno-Maringá)                  
+CURSO: 461 - Engenharia de Produção (Noturno-Goioerê)                           
+CURSO: 501 - Música - Licenciatura-N-Maringá                                    
+CURSO: 501 - Música-Licenciatura (Integral-Maringá)                             
+CURSO: 501 - Música-Licenciatura-Educação Musical (Integral-Maringá)            
+CURSO: 502 - Música - Bacharelado - Canto-N-Maringá                             
+CURSO: 502 - Música-Bacharelado-Canto (Integral-Maringá)                        
+CURSO: 503 - Música - Bacharelado - Regência Coral-N-Maringá                    
+CURSO: 503 - Música-Bacharelado-Regência Coral (Integral-Maringá)               
+CURSO: 504 - Música - Bacharelado - Piano-N-Maringá                             
+CURSO: 504 - Música-Bacharelado-Piano (Integral-Maringá)                        
+CURSO: 505 - Música - Bacharelado - Flauta Transversa-N-Maringá                 
+CURSO: 505 - Música-Bacharelado-Flauta Transversa (Integral-Maringá)            
+CURSO: 505 - Música-Bacharelado-Flauta Transversal (Integral-Maringá)           
+CURSO: 506 - Música-Bacharelado-Violino (Integral-Maringá)                      
+CURSO: 507 - Música - Bacharelado - Violão-N-Maringá                            
+CURSO: 507 - Música-Bacharelado-Violão (Integral-Maringá)                       
+CURSO: 508 - Música-Bacharelado-Composição (Integral-Maringá)                   
+CURSO: 509 - Música-Bacharelado-Viola (Integral-Maringá)                        
+CURSO: 510 - Música-Bacharelado-Violoncelo (Integral-Maringá)                   
+CURSO: 551 - Artes Cênicas (Vespertino-Maringá)                                 
+CURSO: 552 - Artes Visuais (Vespertino-Maringá)                                 
+CURSO: 591 - Engenharia Agrícola (Integral-Cidade Gaúcha)                       
+CURSO: 591 - Engenharia Agrícola-I-Cidade Gaúcha                                
+CURSO: 601 - Engenharia Ambiental (Integral-Umuarama)                           
+CURSO: 602 - Tecnologia em Meio Ambiente (Noturno-Umuarama)                     
+CURSO: 602 - Tecnologia em Meio Ambiente-N-Umuarama                             
+CURSO: 611 - Tecnologia em Alimentos (Matutino-Umuarama)                        
+CURSO: 611 - Tecnologia em Alimentos (Noturno-Umuarama)                         
+CURSO: 611 - Tecnologia em Alimentos-M-Umuarama                                 
+CURSO: 622 - Tecnologia em Construção Civil (Noturno-Umuarama)                  
+CURSO: 622 - Tecnologia em Construção Civil-N-Umuarama                          
+CURSO: 651 - Medicina Veterinária (Integral-Umuarama)                           
+CURSO: 651 - Medicina Veterinária-I-Umuarama                                    
+CURSO: 661 - Agronomia (Integral-Umuarama)                                      
+CURSO: 661 - Agronomia-I-Umuarama                                               
+CURSO: 713 - Engenharia Têxtil (Integral-Goioerê)                               
+CURSO: 713 - Engenharia Têxtil-I-Goioerê                                        
+CURSO: 715 - Licenciatura Plena em Ciência (Noturno-Goioerê)                    
+CURSO: 715 - Licenciatura Plena em Ciência-N-Goioerê                            
+CURSO: 715 - Licenciatura Plena em Ciências (Noturno-Goioerê)                   
+CURSO: 813 - Ciências Contábeis (Noturno-Cianorte)                              
+CURSO: 813 - Ciências Contábeis-N-Cianorte                                      
+CURSO: 815 - Pedagogia (Noturno-Cianorte)                                       
+CURSO: 815 - Pedagogia-N-Cianorte                                               
+CURSO: 817 - Design (Integral-Cianorte)                                         
+CURSO: 817 - Design (Noturno-Cianorte)                                          
+CURSO: 817 - Design-N-Cianorte                                                  
+CURSO: 819 - Moda (Matutino-Cianorte)                                           
+CURSO: 819 - Moda (Noturno-Cianorte)                                            
+CURSO: 819 - Moda-N-Cianorte                                                    
+CURSO: 851 - Administração Pública-Assaí (a Distância)                          
+CURSO: 852 - Administração Pública-Astorga (a Distância)                        
+CURSO: 853 - Administração Pública-Bela Vista do Paraíso (a Distância)          
+CURSO: 854 - Administração Pública-Cidade Gaúcha (a Distância)                  
+CURSO: 855 - Administração Pública-Cruzeiro do Oeste (a Distância)              
+CURSO: 856 - Administração Pública-Engenheiro Beltrão (a Distância)             
+CURSO: 857 - Administração Pública-Goioerê (a Distância)                        
+CURSO: 858 - Administração Pública-Itambé (a Distância)                         
+CURSO: 859 - Administração Pública-Nova Londrina (a Distância)                  
+CURSO: 860 - Administração Pública-Nova Santa Rosa (a Distância)                
+CURSO: 861 - Administração Pública-Paranavaí (a Distância)                      
+CURSO: 862 - Administração Pública-Sarandi (a Distância)                        
+CURSO: 863 - Administração Pública-Umuarama (a Distância)                       
+CURSO: 864 - Ciências Biológicas-Astorga (a Distância)                          
+CURSO: 865 - Ciências Biológicas-Cidade Gaúcha (a Distância)                    
+CURSO: 866 - Ciências Biológicas-Goioerê (a Distância)                          
+CURSO: 867 - Ciências Biológicas-Nova Londrina (a Distância)                    
+CURSO: 868 - Ciências Biológicas-Sarandi (a Distância)                          
+CURSO: 869 - Ciências Biológicas-Umuarama (a Distância)                         
+CURSO: 870 - História-Assaí (a Distância)                                       
+CURSO: 871 - História-Bela Vista do Paraíso (a Distância)                       
+CURSO: 872 - História-Cidade Gaúcha (a Distância)                               
+CURSO: 873 - História-Cruzeiro do Oeste (a Distância)                           
+CURSO: 874 - História-Diamante do Norte (a Distância)                           
+CURSO: 875 - História-Engenheiro Beltrão (a Distância)                          
+CURSO: 876 - História-Faxinal (a Distância)                                     
+CURSO: 877 - História-Flor da Serra do Sul (a Distância)                        
+CURSO: 878 - História-Jacarezinho (a Distância)                                 
+CURSO: 879 - História-Nova Santa Rosa (a Distância)                             
+CURSO: 880 - História-Umuarama (a Distância)                                    
+CURSO: 881 - Letras-Astorga (a Distância)                                       
+CURSO: 882 - Letras-Bela Vista do Paraíso (a Distância)                         
+CURSO: 883 - Letras-Engenheiro Beltrão (a Distância)                            
+CURSO: 884 - Letras-Nova Santa Rosa (a Distância)                               
+CURSO: 885 - Letras-Nova Tebas (a Distância)                                    
+CURSO: 886 - Letras-Palmital (a Distância)                                      
+CURSO: 887 - História-Astorga (a Distância)                                     
+CURSO: 888 - História-Paranavaí (a Distância)                                   
+CURSO: 889 - História-Ubiratã (a Distância)                                     
+CURSO: 890 - Letras-Cidade Gaúcha (a Distância)                                 
+CURSO: 891 - Letras-Diamante do Norte (a Distância)                             
+CURSO: 892 - Letras-Ibaiti (a Distância)                                        
+CURSO: 893 - Letras-Nova Londrina (a Distância)                                 
+CURSO: 894 - Letras-Paranavaí (a Distância)                                     
+CURSO: 895 - Letras-Sarandi (a Distância)                                       
+CURSO: 896 - Letras-Siqueira Campos (a Distância)                               
+CURSO: 897 - Letras-Ubiratã (a Distância)                                       
+CURSO: 898 - Letras-Umuarama (a Distância)                                      
+CURSO: 899 - Administração Pública-Diamante do Norte (a Distância)              
+CURSO: 900 - Administração Pública-Ubiratã (a Distância)                        
+CURSO: 901 - Administração EAD-Cascavel-Banco do Brasil                         
+CURSO: 901 - Normal Superior - Alto Paraná - Paranavaí                          
+CURSO: 901 - Normal Superior-Alto Paraná (a Distância)                          
+CURSO: 902 - Administração EAD-Cascavel-Servidor Público                        
+CURSO: 902 - Normal Superior - Amaporã - Paranavaí                              
+CURSO: 902 - Normal Superior-Alvorada do Sul (a Distância)                      
+CURSO: 903 - Administração EAD-Cianorte-Banco do Brasil                         
+CURSO: 903 - Normal Superior - Apucarana - Sarandi                              
+CURSO: 903 - Normal Superior-Amaporã (a Distância)                              
+CURSO: 904 - Administração EAD-Cianorte-Servidor Público                        
+CURSO: 904 - Normal Superior - Assis Chateaubriand - Goioerê                    
+CURSO: 904 - Normal Superior-Araruna (a Distância)                              
+CURSO: 905 - Administração EAD-Cidade Gaúcha-Banco do Brasil                    
+CURSO: 905 - Normal Superior - Barbosa Ferraz - Goioerê                         
+CURSO: 905 - Normal Superior-Assis Chateaubriand (a Distância)                  
+CURSO: 906 - Administração EAD-Cidade Gaúcha-Servidor Público                   
+CURSO: 906 - Normal Superior - Bela Vista do Paraíso - Sarandi                  
+CURSO: 906 - Normal Superior-Barbosa Ferraz (a Distância)                       
+CURSO: 907 - Administração EAD-Diamante do Norte-Banco Brasil                   
+CURSO: 907 - Normal Superior - Boa Esperança - Goioerê                          
+CURSO: 907 - Normal Superior-Bela Vista do Paraíso (a Distância)                
+CURSO: 908 - Administração EAD-Diamante do Norte-Serv. Público                  
+CURSO: 908 - Normal Superior - Bom Sucesso - Sarandi                            
+CURSO: 908 - Normal Superior-Boa Esperança (a Distância)                        
+CURSO: 909 - Administração EAD-Goioerê-Banco do Brasil                          
+CURSO: 909 - Normal Superior - Cafeara - Sarandi                                
+CURSO: 909 - Normal Superior-Bom Sucesso (a Distância)                          
+CURSO: 910 - Administração EAD-Goioerê-Servidor Público                         
+CURSO: 910 - Normal Superior - Califórnia - Sarandi                             
+CURSO: 910 - Normal Superior-Cafeara (a Distância)                              
+CURSO: 911 - Administração EAD-Guarapuava-Banco do Brasil                       
+CURSO: 911 - Normal Superior - Centenário do Sul - Sarandi                      
+CURSO: 911 - Normal Superior-Califórnia (a Distância)                           
+CURSO: 912 - Administração EAD-Guarapuava-Servidor Público                      
+CURSO: 912 - Normal Superior - Cianorte - Cianorte                              
+CURSO: 912 - Normal Superior-Centenário do Sul (a Distância)                    
+CURSO: 913 - Administração EAD-Londrina-Banco do Brasil                         
+CURSO: 913 - Normal Superior - Cidade Gaúcha - Cidade Gaúcha                    
+CURSO: 913 - Normal Superior-Cianorte (a Distância)                             
+CURSO: 914 - Administração EAD-Londrina-Servidor Público                        
+CURSO: 914 - Normal Superior - Coronel Vivida - Guarapuava                      
+CURSO: 914 - Normal Superior-Cidade Gaúcha (a Distância)                        
+CURSO: 915 - Administração EAD-Maringá-Banco do Brasil                          
+CURSO: 915 - Normal Superior - Cruzeiro do Oeste - Umuarama                     
+CURSO: 915 - Normal Superior-Cruzeiro do Oeste (a Distância)                    
+CURSO: 916 - Administração EAD-Maringá-Servidor Público                         
+CURSO: 916 - Normal Superior - Diamante do Norte - Diam. Norte                  
+CURSO: 916 - Normal Superior-Diamante do Norte (a Distância)                    
+CURSO: 917 - Administração EAD-Ponta Grossa-Banco do Brasil                     
+CURSO: 917 - Normal Superior - Engenheiro Beltrão - Cianorte                    
+CURSO: 917 - Normal Superior-Douradina (a Distância)                            
+CURSO: 918 - Administração EAD-Ponta Grossa-Servidor Público                    
+CURSO: 918 - Normal Superior - Goioerê - Goioerê                                
+CURSO: 918 - Normal Superior-Doutor Camargo (a Distância)                       
+CURSO: 919 - Administração EAD-Umuarama-Banco do Brasil                         
+CURSO: 919 - Normal Superior - Guaporema - Cidade Gaúcha                        
+CURSO: 919 - Normal Superior-Engenheiro Beltrão (a Distância)                   
+CURSO: 920 - Administração EAD-Umuarama-Servidor Público                        
+CURSO: 920 - Normal Superior-Goioerê (a Distância)                              
+CURSO: 921 - Normal Superior - Guarapuava - Guarapuava                          
+CURSO: 921 - Normal Superior-Guaporema (a Distância)                            
+CURSO: 922 - Normal Superior - Indianópolis - Cidade Gaúcha                     
+CURSO: 922 - Normal Superior-Indianópolis (a Distância)                         
+CURSO: 923 - Normal Superior - Janiópolis - Goioerê                             
+CURSO: 923 - Normal Superior-Itambé (a Distância)                               
+CURSO: 924 - Normal Superior - Japurá - Cidade Gaúcha                           
+CURSO: 924 - Normal Superior-Janiópolis (a Distância)                           
+CURSO: 925 - Normal Superior - Juranda - Goioerê                                
+CURSO: 925 - Normal Superior-Japurá (a Distância)                               
+CURSO: 926 - Normal Superior - Lidianópolis - Sarandi                           
+CURSO: 926 - Normal Superior-Juranda (a Distância)                              
+CURSO: 927 - Normal Superior - Loanda - Diamante do Norte                       
+CURSO: 927 - Normal Superior-Jussara (a Distância)                              
+CURSO: 928 - Normal Superior - Mamborê - Goioerê                                
+CURSO: 928 - Normal Superior-Lidianópolis (a Distância)                         
+CURSO: 929 - Normal Superior - Maria Helena - Umuarama                          
+CURSO: 929 - Normal Superior-Loanda (a Distância)                               
+CURSO: 930 - Normal Superior - Marialva - Sarandi                               
+CURSO: 930 - Normal Superior-Mamborê (a Distância)                              
+CURSO: 931 - Normal Superior - Munhoz de Melo - Sarandi                         
+CURSO: 931 - Normal Superior-Maria Helena (a Distância)                         
+CURSO: 932 - Normal Superior - Nossa Sra das Graças - Sarandi                   
+CURSO: 932 - Normal Superior-Marialva (a Distância)                             
+CURSO: 933 - Normal Superior - Nova Aliança do Ivaí - Paranavaí                 
+CURSO: 933 - Normal Superior-Moreira Sales (a Distância)                        
+CURSO: 934 - Normal Superior - Nova Cantu - Goioerê                             
+CURSO: 935 - Normal Superior - Nova Londrina - Diam. do Norte                   
+CURSO: 935 - Normal Superior-Nova Aliança do Ivaí (a Distância)                 
+CURSO: 936 - Normal Superior - Paraíso do Norte - Cidade Gaúcha                 
+CURSO: 936 - Normal Superior-Nova Cantu (a Distância)                           
+CURSO: 937 - Normal Superior - Paranapoema - Paranavaí                          
+CURSO: 937 - Normal Superior-Nova Londrina (a Distância)                        
+CURSO: 938 - Normal Superior - Paranavaí - Paranavaí                            
+CURSO: 938 - Normal Superior-Paraíso do Norte (a Distância)                     
+CURSO: 939 - Normal Superior - Perobal - Umuarama                               
+CURSO: 940 - Normal Superior - Planaltina do Paraná -Diam.Norte                 
+CURSO: 940 - Normal Superior-Paranavaí (a Distância)                            
+CURSO: 941 - Normal Superior - Porto Rico - Diamante do Norte                   
+CURSO: 941 - Normal Superior-Perobal (a Distância)                              
+CURSO: 942 - Normal Superior - Quinta do Sol - Cianorte                         
+CURSO: 942 - Normal Superior-Planaltina do Paraná (a Distância)                 
+CURSO: 943 - Normal Superior-Porto Rico (a Distância)                           
+CURSO: 944 - Normal Superior - Rolândia - Sarandi                               
+CURSO: 944 - Normal Superior-Quinta do Sol (a Distância)                        
+CURSO: 945 - Normal Superior - Rondon - Cidade Gaúcha                           
+CURSO: 946 - Normal Superior - Santa Cruz M. Castelo-Diam.Norte                 
+CURSO: 946 - Normal Superior-Rolândia (a Distância)                             
+CURSO: 947 - Normal Superior - Santa Isabel do Ivaí -Diam.Norte                 
+CURSO: 947 - Normal Superior-Rondon (a Distância)                               
+CURSO: 948 - Normal Superior - Santo Antônio do Caiuá-Paranavaí                 
+CURSO: 948 - Normal Superior-Santa Cruz de Monte Castelo (a Distância)          
+CURSO: 949 - Normal Superior - Santo Inácio - Sarandi                           
+CURSO: 949 - Normal Superior-Santa Fé (a Distância)                             
+CURSO: 950 - Normal Superior - São Carlos do Ivaí - Cid. Gaúcha                 
+CURSO: 950 - Normal Superior-Santa Isabel do Ivaí (a Distância)                 
+CURSO: 951 - Normal Superior - São João do Caiuá - Paranavaí                    
+CURSO: 951 - Normal Superior-Santo Antônio do Caiuá (a Distância)               
+CURSO: 952 - Normal Superior-Santo Inácio (a Distância)                         
+CURSO: 953 - Normal Superior - São Manoel do Paraná -Cid.Gaúcha                 
+CURSO: 953 - Normal Superior-São Carlos do Ivaí (a Distância)                   
+CURSO: 954 - Normal Superior - Sarandi - Sarandi                                
+CURSO: 954 - Normal Superior-São João do Caiuá (a Distância)                    
+CURSO: 955 - Normal Superior - Tamboara - Paranavaí                             
+CURSO: 955 - Normal Superior-São Manoel do Paraná (a Distância)                 
+CURSO: 956 - Normal Superior - Tapejara - Cianorte                              
+CURSO: 956 - Normal Superior-Sarandi (a Distância)                              
+CURSO: 957 - Normal Superior - Terra Rica - Diamante do Norte                   
+CURSO: 958 - Normal Superior - Tuneiras do Oeste - Cianorte                     
+CURSO: 958 - Normal Superior-Tapejara (a Distância)                             
+CURSO: 959 - Normal Superior - Umuarama - Umuarama                              
+CURSO: 959 - Normal Superior-Terra Rica (a Distância)                           
+CURSO: 960 - Normal Superior-Tuneiras do Oeste (a Distância)                    
+CURSO: 961 - Normal Superior-Umuarama (a Distância)                             
+CURSO: 962 - Normal Superior-Uniflor (a Distância)                              
+CURSO: 963 - Pedagogia-Assaí (a Distância)                                      
+CURSO: 964 - Pedagogia-Bela Vista do Paraíso (a Distância)                      
+CURSO: 965 - Pedagogia-Engenheiro Beltrão (a Distância)                         
+CURSO: 966 - Pedagogia-Faxinal (a Distância)                                    
+CURSO: 967 - Pedagogia-Flor da Serra do Sul (a Distância)                       
+CURSO: 968 - Pedagogia-Goioerê (a Distância)                                    
+CURSO: 969 - Pedagogia-Itambé (a Distância)                                     
+CURSO: 970 - Pedagogia-Jacarezinho (a Distância)                                
+CURSO: 971 - Pedagogia-Nova Santa Rosa (a Distância)                            
+CURSO: 972 - Pedagogia-Sarandi (a Distância)                                    
+CURSO: 973 - Pedagogia-Umuarama (a Distância)                                   
+CURSO: 974 - Física-Assaí (a Distância)                                         
+CURSO: 975 - Física-Bela Vista do Paraíso (a Distância)                         
+CURSO: 976 - Física-Goioerê (a Distância)                                       
+CURSO: 977 - Física-Jacarezinho (a Distância)                                   
+CURSO: 979 - Física-Umuarama (a Distância)                                      
+CURSO: 980 - Pedagogia-Astorga (a Distância)                                    
+CURSO: 981 - Pedagogia-Cruzeiro do Oeste (a Distância)                          
+CURSO: 982 - Pedagogia-Nova Londrina (a Distância)                              
+CURSO: 983 - Pedagogia-Cidade Gaúcha (a Distância)                              
+CURSO: 984 - Física-Cidade Gaúcha (a Distância)                                 
+CURSO: 985 - Pedagogia-Diamante do Norte (a Distância)                          
+CURSO: 986 - Pedagogia-Paranavaí (a Distância)                                  
+CURSO: 987 - Pedagogia-Siqueira Campos (a Distância)                            
+CURSO: 988 - Ciências Biológicas-Assaí (a Distância)                            
+CURSO: 989 - Ciências Biológicas-Diamante do Norte (a Distância)                
+CURSO: 990 - Pedagogia-Ubiratã (a Distância)                                    
